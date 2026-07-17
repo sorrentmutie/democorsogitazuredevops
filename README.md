@@ -1,0 +1,2 @@
+# democorsogitazuredevops
+Repo per demo
